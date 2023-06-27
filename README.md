@@ -1,3 +1,3 @@
 # github-ai
-repo for my ai playground
+repo for my ai playground<br>
 created by Vendel-Mohay, Istvan
